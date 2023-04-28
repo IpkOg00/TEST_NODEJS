@@ -1,0 +1,84 @@
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"error","message":"Cannot enqueue Query after fatal error."}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_DBACCESS_DENIED_ERROR: Access denied for user 'ipkuser'@'%' to database 'test_nodeserver'"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_ACCESS_DENIED_ERROR: Access denied for user 'ipkuser'@'localhost' (using password: YES)"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_DBACCESS_DENIED_ERROR: Access denied for user 'ipkuser'@'localhost' to database 'test_nodeserver'"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"error","message":"ER_DBACCESS_DENIED_ERROR: Access denied for user 'ipkuser'@'localhost' to database 'test_nodeserver'"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Please login to access the data"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_EMPTY_QUERY: Query was empty"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_EMPTY_QUERY: Query was empty"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Please login to access the data"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'sql7614586.tData' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'sql7614586.tData' doesn't exist"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'sql7614586.tData' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'sql7614586.tData' doesn't exist"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"info","message":"Running on PORT 3000"}
+{"level":"info","message":"Database connected"}
+{"level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Columna1' in 'where clause'"}
